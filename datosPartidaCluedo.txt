@@ -1,0 +1,20 @@
+
+Fecha de la partida: 04-04-2024
+Jugador [nombre=Link, arma=Cuchillo, habitacion=Salón, horaPartida=15:32]
+Jugador [nombre=Mora, arma=Arco de Centaleón, habitacion=Observatorio, horaPartida=15:32]
+Jugador [nombre=Malon, arma=Cuerda, habitacion=Observatorio, horaPartida=15:32]
+Jugador [nombre=Malon, arma=Pistola, habitacion=Teatro, horaPartida=15:32]
+Jugador [nombre=Rauru, arma=Arco de Centaleón, habitacion=Teatro, horaPartida=15:32]
+
+Fecha de la partida: 04-04-2024
+Jugador [nombre=Rubio, arma=Veneno, habitacion=Comedor, horaPartida=17:30]
+
+Fecha de la partida: 04-04-2024
+Jugador [nombre=Mora, arma=Pistola, habitacion=Comedor, horaPartida=17:32]
+
+Fecha de la partida: 05-04-2024
+Jugador [nombre=Blanco, arma=Cuchillo, habitacion=Terraza, horaPartida=00:14]
+
+Fecha de la partida: 05-04-2024
+Jugador [nombre=Celeste, arma=Pistola, habitacion=Terraza, horaPartida=00:15]
+
